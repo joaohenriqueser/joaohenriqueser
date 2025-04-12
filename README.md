@@ -124,7 +124,7 @@ Meu foco é Back-End, porém tenho conhecimento de tecnologias como CSS e HTML.
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="100" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=joaohenriqueser&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -132,7 +132,7 @@ Meu foco é Back-End, porém tenho conhecimento de tecnologias como CSS e HTML.
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="100" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohenriqueser&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
