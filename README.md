@@ -103,6 +103,16 @@ Meu foco é Back-End, porém tenho conhecimento de tecnologias como CSS e HTML.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
 />
+<img 
+    align="left" 
+    alt="UML" 
+    title="UML"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" 
+/>
+
+
 
 
 <br/>
