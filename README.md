@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Henrique Servelatti
+# 👨🏼‍💻 João Henrique Servelatti
 
 **`Desenvolvedor Back-End`**
 
