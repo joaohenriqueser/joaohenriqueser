@@ -4,11 +4,9 @@
 
 Sempre gostei de tecnologia, isso se aflorou ainda mais no ensino médio, quando decidi começar a estudar programação. Logo no inicio me interessei pelo Back-End.
 
-Atualmente não trabalho na área, estou procurando vagas para poder começar essa minha jornada profissionalmente, estou fazendo faculdade de Tecnologia em Sistemas para Internet no INSTITUTO FEDERAL DE SÃO PAULO, estou no 3º período.
+Atualmente não trabalho na área, estou procurando vagas para poder começar essa minha jornada profissionalmente, estou fazendo faculdade de Tecnologia em Sistemas para Internet no INSTITUTO FEDERAL DE SÃO PAULO, estou no 4º período.
 
-Trabalho com projetos próprios, e recentemente conclui um curso pela UDEMY de Java Completo, diariamente faço coisas novas com tecnologias como Java, C++, JavaSCRIPT, MySQL, MongoDB, Spring Boot.
-
-Meu foco é Back-End, porém tenho conhecimento de tecnologias como CSS e HTML.
+Trabalho com projetos próprios, ediariamente faço coisas novas com tecnologias como HTML,CSS, JS, C#, C++, JavaSCRIPT, MySQL, OracleDB.
 
 <p align="left">
     <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
@@ -65,55 +63,12 @@ Meu foco é Back-End, porém tenho conhecimento de tecnologias como CSS e HTML.
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
 />
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="UML" 
-    title="UML"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" 
-/>
-
-
-
 
 <br/>
 <br/>
