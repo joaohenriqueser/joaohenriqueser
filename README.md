@@ -4,7 +4,7 @@
 
 Sempre gostei de tecnologia, isso se aflorou ainda mais no ensino médio, quando decidi começar a estudar programação. Logo no inicio me interessei pelo Back-End.
 
-Atualmente não trabalho na área, estou procurando vagas para poder começar essa minha jornada profissionalmente, estou fazendo faculdade de Tecnologia em Sistemas para Internet no INSTITUTO FEDERAL DE SÃO PAULO, estou no 4º período.
+Atualmente não trabalho na área, estou procurando vagas para poder começar essa minha jornada profissionalmente, estou fazendo faculdade de Tecnologia em Sistemas para Internet no INSTITUTO FEDERAL DE SÃO PAULO, estou no 5º período.
 
 Trabalho com projetos próprios, ediariamente faço coisas novas com tecnologias como HTML,CSS, JS, C#, C++, JavaSCRIPT, MySQL, OracleDB.
 
